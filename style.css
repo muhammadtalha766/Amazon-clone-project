@@ -262,15 +262,18 @@ span{
 
 .foot-panel3 {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #222f3d;
     color: #dddddd;
     border-top: 0.5px solid #dddddd;
     height: 70px;
 }
 .page {
-    /* display: flex; */
-    justify-content: center;
-    align-items: center;
+    /* display: flex; */ 
+    /* justify-content: center;
+    align-items: center; */
     padding-left: 20px;           /* Add some padding from the left */
 }
 .page a {
