@@ -12,8 +12,6 @@
     align-items: center;
     justify-content: space-evenly;
 }
-
-
 .logo{
     background-image: url(images/amazon_logo.png) ;
     background-size: cover;
@@ -215,7 +213,6 @@ span{
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 }
-
 .foot-panel1{
     /* margin-top: 5px; */
     background-color: #37475a;
@@ -355,7 +352,6 @@ span{
     font-size: 1.2rem;
     font-weight: 700;
 }
-
 
 /* New box images */
 .boxnew1-img{
