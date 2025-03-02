@@ -261,13 +261,14 @@ span{
 }
 
 .foot-panel3 {
+    display: flex;
     background-color: #222f3d;
     color: #dddddd;
     border-top: 0.5px solid #dddddd;
     height: 70px;
 }
 .page {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     padding-left: 20px;           /* Add some padding from the left */
@@ -284,7 +285,7 @@ span{
 }
 
 .copyright{
-    display: flex; 
+    /* display: flex;  */
     font-size: 1rem;
     justify-content: center;
     margin-top: 3px;
