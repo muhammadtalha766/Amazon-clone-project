@@ -284,7 +284,7 @@ span{
 }
 
 .copyright{
-    display: flex;
+    display: flex; 
     font-size: 1rem;
     justify-content: center;
     margin-top: 3px;
